@@ -4,6 +4,30 @@ CareerLens analyzes the fit between your resume and any job posting using a pipe
 
 ---
 
+## Sample Output
+
+### CareerLens -- Multi-Agent Pipeline in Action
+
+The pipeline runs 5 agents in sequence. Each agent shows its activity log and timing in real time:
+
+![CareerLens Agent Pipeline](images/careerlens-pipeline.png)
+
+After the pipeline completes, the system shows a fit score, ranked skill gaps with criticality labels, and a personalized learning path:
+
+![CareerLens Fit Score and Skill Gaps](images/careerlens-results.png)
+
+![CareerLens Learning Path](images/careerlens-learning-path.png)
+
+### Single-Call Baseline Comparison
+
+Running `baseline.py` on the same job URL -- the model cannot fetch the URL and reasons from text alone:
+
+![baseline.py Output](images/baseline-output.png)
+
+The baseline identifies generic gaps without reading the actual job description. CareerLens fetches the real posting via the Greenhouse API and returns specific, ranked, actionable gaps.
+
+---
+
 ## How it works
 
 Five agents run in sequence, each passing structured output to the next:
