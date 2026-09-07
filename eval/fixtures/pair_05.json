@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_05",
+  "resume_text": "Priya Nair — AI Engineer. M.S. Artificial Intelligence, MIT, 2022. 2 years of experience in NLP and generative AI. Built fine-tuned BERT and GPT-2 models for text classification and summarization tasks. Familiar with Hugging Face Transformers, LangChain, and OpenAI API. Deployed models as REST APIs using FastAPI and Docker. Experience with vector databases (Pinecone, FAISS) for retrieval-augmented generation. Limited experience with large-scale infrastructure or multi-agent systems. Published one paper on prompt engineering at a workshop.",
+  "job_url": "https://example-jobs.com/jobs/pair_05",
+  "job_description": "AI Engineer at an enterprise AI startup. Build and deploy LLM-powered applications. Required: Python, LangChain, OpenAI API or Bedrock, Hugging Face, FastAPI, Docker, vector databases (Pinecone or Weaviate). Preferred: multi-agent frameworks (LangGraph, AutoGen), AWS, RAG system design. 1+ years experience.",
+  "ground_truth_skills": ["Python", "LangChain", "OpenAI API", "Hugging Face", "FastAPI", "Docker", "Pinecone", "Multi-agent frameworks", "AWS", "RAG system design"],
+  "ground_truth_gaps": ["Multi-agent frameworks", "AWS"],
+  "ground_truth_fit_score": 75
+}

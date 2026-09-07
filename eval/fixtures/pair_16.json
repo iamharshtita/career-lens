@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_16",
+  "resume_text": "Lucas Andrade — Software Engineer. B.S. Computer Science, USP Brazil, 2018. 5 years of full-stack development. Backend: Python (FastAPI, Django) and Node.js. Frontend: React and Vue.js. Database: PostgreSQL, MongoDB, and Redis. Deployed applications on AWS (EC2, RDS, S3) and GCP. Experienced with Docker and Kubernetes. Familiar with Terraform. Uses GitHub Actions for CI/CD. Strong experience with RESTful API design, OpenAPI/Swagger documentation, and authentication (OAuth2, JWT). Built a multi-tenant SaaS application from scratch with 50k monthly active users.",
+  "job_url": "https://example-jobs.com/jobs/pair_16",
+  "job_description": "Software Engineer at a cloud-native B2B SaaS company. Required: Python or Node.js, React, PostgreSQL, Docker, Kubernetes, AWS, CI/CD, REST API design, OAuth2/JWT authentication. Preferred: Terraform, multi-tenant SaaS experience, OpenAPI documentation. 3+ years.",
+  "ground_truth_skills": ["Python", "Node.js", "React", "PostgreSQL", "Docker", "Kubernetes", "AWS", "CI/CD", "REST API design", "OAuth2", "JWT", "Terraform", "Multi-tenant SaaS", "OpenAPI"],
+  "ground_truth_gaps": [],
+  "ground_truth_fit_score": 92
+}

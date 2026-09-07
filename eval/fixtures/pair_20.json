@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_20",
+  "resume_text": "David Chen — AI/ML Engineer. M.S. Machine Learning, Georgia Tech, 2020. 4 years building and deploying ML systems at a large tech company. Proficient in Python, PyTorch, and TensorFlow. Deployed production models using Kubernetes, KServe, and MLflow. Built RAG pipelines with LangChain, Pinecone, and OpenAI GPT-4. Familiar with AWS Bedrock and fine-tuning smaller LLMs (Llama 2, Mistral). Experienced with Apache Airflow for pipeline orchestration and Great Expectations for data validation. Strong experience with A/B testing and model monitoring using Evidently AI.",
+  "job_url": "https://example-jobs.com/jobs/pair_20",
+  "job_description": "Senior AI/ML Engineer at an enterprise AI company. Required: Python, PyTorch, LLM deployment (OpenAI, Bedrock, or Hugging Face), RAG pipelines, LangChain or LlamaIndex, vector databases, MLflow, Kubernetes. Preferred: Fine-tuning (LoRA/PEFT), model monitoring (Evidently or Arize), Airflow, AWS Bedrock. 3+ years of ML engineering experience.",
+  "ground_truth_skills": ["Python", "PyTorch", "LLM deployment", "RAG pipelines", "LangChain", "Vector databases", "MLflow", "Kubernetes", "Fine-tuning", "Model monitoring", "Airflow", "AWS Bedrock"],
+  "ground_truth_gaps": [],
+  "ground_truth_fit_score": 91
+}

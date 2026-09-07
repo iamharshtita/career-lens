@@ -1,0 +1,63 @@
+# =============================================================
+# Environment & Secrets — never commit these
+# =============================================================
+.env
+*.pem
+*.key
+
+# =============================================================
+# Python
+# =============================================================
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.Python
+dist/
+build/
+
+# =============================================================
+# Node / Next.js
+# =============================================================
+node_modules/
+.next/
+out/
+.npm
+
+# =============================================================
+# CareerLens local data — contains user PII, keep out of repo
+# =============================================================
+backend/data/profiles/
+backend/data/jobs/
+backend/data/results/
+backend/data/uploads/
+backend/data/snapshots/
+eval/report.json
+
+# =============================================================
+# macOS
+# =============================================================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =============================================================
+# IDE / Editor
+# =============================================================
+.idea/
+.vscode/
+*.swp
+*.swo
+.kiro/
+
+# =============================================================
+# Proposal docs — personal, not part of the codebase
+# =============================================================
+*.docx
+*.doc
+
+# Nested data directory (created by running from wrong cwd)
+backend/backend/
+backend/repl_state

@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_03",
+  "resume_text": "Aisha Patel — Data Scientist. M.S. Statistics, Carnegie Mellon University, 2021. 3 years in data science at an e-commerce company. Proficient in Python, R, SQL, and Tableau. Built predictive customer churn models using XGBoost and logistic regression. Conducted A/B testing and statistical significance analysis. Familiar with AWS S3 and basic Jupyter notebook workflows. No experience with distributed computing frameworks or deep learning. Strong communicator — presented findings to C-suite stakeholders monthly.",
+  "job_url": "https://example-jobs.com/jobs/pair_03",
+  "job_description": "Data Scientist position at a healthcare analytics firm. Responsibilities: build predictive models, conduct statistical analysis, and communicate insights. Required: Python, SQL, machine learning (scikit-learn or XGBoost), statistical testing, data visualization. Preferred: PySpark, deep learning, healthcare domain knowledge. 2+ years experience.",
+  "ground_truth_skills": ["Python", "SQL", "XGBoost", "scikit-learn", "Statistical testing", "Data visualization", "PySpark", "Deep learning", "Healthcare domain knowledge"],
+  "ground_truth_gaps": ["PySpark", "Deep learning", "Healthcare domain knowledge"],
+  "ground_truth_fit_score": 68
+}

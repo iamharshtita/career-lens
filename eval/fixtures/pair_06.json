@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_06",
+  "resume_text": "Derek Wong — Backend Engineer. B.S. Computer Science, UC Berkeley, 2019. 4 years building backend services. Proficient in Go, Python, and PostgreSQL. Designed microservices using gRPC and REST. Familiar with Redis for caching and RabbitMQ for message queuing. Deployed services on GCP using Cloud Run. Some experience with Terraform but primarily used manual GCP console setup. Comfortable with Docker. No experience with AWS or Azure. Strong background in system design and API versioning.",
+  "job_url": "https://example-jobs.com/jobs/pair_06",
+  "job_description": "Backend Engineer at a SaaS platform company. Required: Go or Python, REST API design, PostgreSQL, Redis, Docker, Kubernetes, AWS. Preferred: gRPC, Kafka, Terraform. 3+ years experience in backend engineering.",
+  "ground_truth_skills": ["Go", "Python", "REST API design", "PostgreSQL", "Redis", "Docker", "Kubernetes", "AWS", "gRPC", "Kafka", "Terraform"],
+  "ground_truth_gaps": ["Kubernetes", "AWS", "Kafka"],
+  "ground_truth_fit_score": 62
+}

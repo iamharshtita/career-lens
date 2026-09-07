@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_18",
+  "resume_text": "Kevin Park — Machine Learning Engineer. M.S. Computer Science (AI track), UIUC, 2019. 5 years at a self-driving car startup. Expert in Python, C++, PyTorch, and TensorRT. Designed perception models for object detection and segmentation (YOLO, Mask R-CNN). Optimized models for edge inference on NVIDIA Jetson and automotive GPUs. Deep knowledge of sensor fusion, LIDAR point clouds, and camera calibration. Familiar with ROS (Robot Operating System). Some experience with AWS SageMaker for training. No web backend or API development experience.",
+  "job_url": "https://example-jobs.com/jobs/pair_18",
+  "job_description": "ML Engineer at an autonomous vehicles company. Required: Python, C++, PyTorch, TensorRT or ONNX Runtime, computer vision (object detection, segmentation), sensor fusion, LIDAR, ROS, NVIDIA GPU optimization. Preferred: AWS SageMaker, MLflow, multi-task learning, Kalman filtering. 4+ years in applied ML.",
+  "ground_truth_skills": ["Python", "C++", "PyTorch", "TensorRT", "Computer vision", "Sensor fusion", "LIDAR", "ROS", "AWS SageMaker", "MLflow", "Kalman filtering"],
+  "ground_truth_gaps": ["MLflow", "Kalman filtering"],
+  "ground_truth_fit_score": 83
+}

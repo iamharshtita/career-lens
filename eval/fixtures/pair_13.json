@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_13",
+  "resume_text": "James Okafor — Data Scientist. Ph.D. Statistics, Duke University, 2020. 4 years of experience in quantitative modeling. Expert in Python, R, and SQL. Built survival analysis models and time-series forecasting systems for retail demand planning. Proficient with scikit-learn, statsmodels, and Prophet. Strong skills in data visualization (matplotlib, seaborn, Plotly). Worked entirely in on-premises Hadoop clusters — no public cloud experience. No experience with MLOps, feature stores, or model serving infrastructure. Excellent statistical rigor and communicates technical findings clearly to non-technical stakeholders.",
+  "job_url": "https://example-jobs.com/jobs/pair_13",
+  "job_description": "Senior Data Scientist at a cloud-native analytics company. Required: Python, SQL, machine learning, statistical modeling, time-series forecasting, data visualization, AWS or GCP, MLflow. Preferred: Feature store integration, model deployment (SageMaker or Vertex AI), Spark. 3+ years of experience.",
+  "ground_truth_skills": ["Python", "SQL", "Machine learning", "Time-series forecasting", "Data visualization", "AWS or GCP", "MLflow", "Feature store", "SageMaker"],
+  "ground_truth_gaps": ["AWS or GCP", "MLflow", "Feature store", "SageMaker"],
+  "ground_truth_fit_score": 55
+}

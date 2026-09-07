@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_01",
+  "resume_text": "Jane Smith — Machine Learning Engineer. B.S. Computer Science, Stanford University, 2018. 5 years of experience building and deploying ML models in production. Proficient in Python, TensorFlow, PyTorch, scikit-learn, and Pandas. Designed and maintained feature engineering pipelines using Apache Spark and Kafka. Deployed containerized model serving endpoints with Docker and Kubernetes on AWS. Experience with MLflow for experiment tracking and model registry. Led a team of 3 engineers to ship a real-time fraud detection model reducing false positives by 30%. Familiar with CI/CD pipelines using GitHub Actions. Holds AWS Certified Machine Learning Specialty certification.",
+  "job_url": "https://example-jobs.com/jobs/pair_01",
+  "job_description": "We are looking for a Senior ML Engineer to join our AI Platform team. You will design and deploy large-scale machine learning systems. Required skills: Python, PyTorch, Kubernetes, MLflow, Apache Spark, Docker, AWS. Experience with LLM fine-tuning and transformer architectures is a strong plus. Must have 4+ years in ML engineering roles.",
+  "ground_truth_skills": ["Python", "PyTorch", "Kubernetes", "MLflow", "Apache Spark", "Docker", "AWS", "LLM fine-tuning", "Transformer architectures"],
+  "ground_truth_gaps": ["LLM fine-tuning", "Transformer architectures"],
+  "ground_truth_fit_score": 82
+}

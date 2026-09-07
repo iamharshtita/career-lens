@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_10",
+  "resume_text": "Omar Hassan — Platform Engineer. M.S. Distributed Systems, Columbia University, 2018. 6 years building internal developer platforms. Expert in Kubernetes, Helm, ArgoCD, and platform engineering patterns. Built internal developer portals using Backstage. Proficient in Go and Python. Strong knowledge of service meshes (Istio, Linkerd). Experienced with observability stacks: OpenTelemetry, Jaeger, Grafana Loki, and Prometheus. Familiar with Terraform and Crossplane for infrastructure automation. Contributed to CNCF open-source projects.",
+  "job_url": "https://example-jobs.com/jobs/pair_10",
+  "job_description": "Platform Engineer to build and maintain our internal developer platform. Required: Kubernetes, Helm, ArgoCD, Backstage, Go or Python, service mesh (Istio or Linkerd), OpenTelemetry, Prometheus/Grafana, Terraform. Preferred: Crossplane, eBPF, multi-cluster Kubernetes management. 4+ years in platform roles.",
+  "ground_truth_skills": ["Kubernetes", "Helm", "ArgoCD", "Backstage", "Go", "Istio", "Linkerd", "OpenTelemetry", "Prometheus", "Grafana", "Terraform", "Crossplane", "eBPF"],
+  "ground_truth_gaps": ["eBPF"],
+  "ground_truth_fit_score": 90
+}

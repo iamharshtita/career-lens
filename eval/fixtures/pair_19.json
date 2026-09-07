@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_19",
+  "resume_text": "Chloe Bennett — DevOps Engineer. B.S. Systems Engineering, Virginia Tech, 2020. 3 years in cloud operations at a media company. Experience with AWS (EC2, S3, CloudFormation) and basic Terraform. Managed Jenkins pipelines for a monolithic application. Familiar with Linux system administration and shell scripting. No Kubernetes experience — the company uses traditional VM-based deployments. No experience with GitOps, ArgoCD, or service meshes. Basic Docker usage for local development only. No monitoring/observability stack experience beyond CloudWatch.",
+  "job_url": "https://example-jobs.com/jobs/pair_19",
+  "job_description": "DevOps Engineer at a modern cloud-native company. Required: AWS, Terraform, Kubernetes, Helm, CI/CD (GitHub Actions), Prometheus/Grafana, Docker. Preferred: ArgoCD, service mesh (Istio), OpenTelemetry, cost optimization. 3+ years of DevOps or SRE experience.",
+  "ground_truth_skills": ["AWS", "Terraform", "Kubernetes", "Helm", "GitHub Actions", "Prometheus", "Grafana", "Docker", "ArgoCD", "Istio", "OpenTelemetry"],
+  "ground_truth_gaps": ["Kubernetes", "Helm", "GitHub Actions", "Prometheus", "Grafana", "ArgoCD", "Istio", "OpenTelemetry"],
+  "ground_truth_fit_score": 35
+}

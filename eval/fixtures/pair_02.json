@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_02",
+  "resume_text": "Carlos Rivera — Frontend Engineer. B.S. Information Systems, UCLA, 2020. 3 years building responsive web applications. Expert in React, TypeScript, and Tailwind CSS. Built reusable component libraries consumed by 10+ internal teams. Familiar with REST APIs and basic Node.js scripting. Used Jest and React Testing Library for unit and integration tests. Some experience with Next.js for server-side rendering. Limited backend knowledge — primarily works on client-side code. Comfortable with Git, GitHub, and Figma handoff workflows.",
+  "job_url": "https://example-jobs.com/jobs/pair_02",
+  "job_description": "Frontend Engineer role at a fintech startup. Build and maintain our Next.js 14 application. Required: React, TypeScript, Next.js, Tailwind CSS, REST API integration, testing (Jest/Vitest). Nice to have: GraphQL, Storybook, accessibility (WCAG 2.1). 2+ years of professional experience required.",
+  "ground_truth_skills": ["React", "TypeScript", "Next.js", "Tailwind CSS", "REST API integration", "Jest", "GraphQL", "Storybook", "WCAG 2.1"],
+  "ground_truth_gaps": ["GraphQL", "Storybook", "WCAG 2.1"],
+  "ground_truth_fit_score": 78
+}

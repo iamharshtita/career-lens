@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_14",
+  "resume_text": "Yuki Tanaka — Backend Engineer. B.S. Computer Science, Waseda University, 2016. 7 years of backend engineering experience. Expert in Java (Spring Boot) and Kotlin. Designed and scaled microservices handling 1M+ requests per day. Deep knowledge of PostgreSQL, MySQL, and Redis. Experienced with Kafka and event-driven architectures. Deployed on AWS using EKS, RDS, and SQS. Familiar with Terraform and CI/CD (GitHub Actions). Mentored junior engineers. Some experience with gRPC. Currently learning Rust for systems programming.",
+  "job_url": "https://example-jobs.com/jobs/pair_14",
+  "job_description": "Senior Backend Engineer for a distributed systems team. Required: Java or Kotlin, Spring Boot, microservices, PostgreSQL or MySQL, Kafka, Redis, AWS, Kubernetes, Terraform. Preferred: gRPC, Rust, distributed tracing (OpenTelemetry). 5+ years of backend engineering.",
+  "ground_truth_skills": ["Java", "Kotlin", "Spring Boot", "Microservices", "PostgreSQL", "Kafka", "Redis", "AWS", "Kubernetes", "Terraform", "gRPC", "OpenTelemetry"],
+  "ground_truth_gaps": ["OpenTelemetry"],
+  "ground_truth_fit_score": 87
+}

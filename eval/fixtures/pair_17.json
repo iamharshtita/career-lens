@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_17",
+  "resume_text": "Fatima Al-Zahrawi — Data Engineer. B.S. Information Technology, King Abdulaziz University, 2020. 3 years as a data analyst transitioning to data engineering. Proficient in SQL, Python, and Excel. Built reports and dashboards in Power BI and Tableau. Some experience with pandas and data cleaning in Python notebooks. No experience with data pipeline orchestration, distributed computing, or cloud data warehouses. Recently completed a Coursera specialization in data engineering but has not applied it professionally.",
+  "job_url": "https://example-jobs.com/jobs/pair_17",
+  "job_description": "Data Engineer at a retail analytics company. Required: Python, SQL, Apache Airflow, dbt, Snowflake or BigQuery, Spark or Flink, AWS or GCP. Preferred: Kafka, Delta Lake, data modeling (star/snowflake schema). 2+ years of data engineering experience.",
+  "ground_truth_skills": ["Python", "SQL", "Apache Airflow", "dbt", "Snowflake", "BigQuery", "Spark", "AWS", "Kafka", "Delta Lake", "Data modeling"],
+  "ground_truth_gaps": ["Apache Airflow", "dbt", "Snowflake", "Spark", "AWS", "Kafka", "Delta Lake"],
+  "ground_truth_fit_score": 30
+}

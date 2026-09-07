@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_07",
+  "resume_text": "Sofia Martinez — Full Stack Engineer. B.S. Software Engineering, UT Austin, 2020. 3 years building full-stack web applications. Frontend: React, TypeScript, and basic CSS. Backend: Node.js, Express, and MongoDB. Some experience with GraphQL. Deployed projects on Heroku and Vercel. Familiar with Git workflows and Agile development. No experience with cloud providers like AWS or Azure. Limited experience with containerization — has used Docker locally but never in production. Enjoys building user-facing features end-to-end.",
+  "job_url": "https://example-jobs.com/jobs/pair_07",
+  "job_description": "Full Stack Engineer for a growth-stage startup. Required: React or Vue, Node.js, TypeScript, SQL or NoSQL database, REST APIs. Preferred: AWS (EC2, RDS, S3), Docker, Kubernetes, GraphQL. Must be comfortable owning features from design to deployment. 2+ years experience.",
+  "ground_truth_skills": ["React", "Node.js", "TypeScript", "MongoDB", "REST APIs", "GraphQL", "AWS", "Docker", "Kubernetes"],
+  "ground_truth_gaps": ["AWS", "Docker (production)", "Kubernetes"],
+  "ground_truth_fit_score": 60
+}

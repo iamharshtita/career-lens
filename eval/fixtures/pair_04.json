@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_04",
+  "resume_text": "Marcus Johnson — DevOps Engineer. B.S. Computer Engineering, Georgia Tech, 2017. 6 years in platform and infrastructure roles. Expert in Terraform, AWS (EC2, EKS, RDS, S3, IAM), Kubernetes, Helm, and Prometheus/Grafana for observability. Automated CI/CD pipelines using Jenkins and GitHub Actions. Experienced with Ansible for configuration management. Implemented GitOps workflows with ArgoCD. Strong scripting skills in Bash and Python. Led migration of legacy monolith to microservices, reducing deployment time from days to minutes.",
+  "job_url": "https://example-jobs.com/jobs/pair_04",
+  "job_description": "Senior DevOps Engineer to manage our cloud infrastructure. Required: Terraform, AWS, Kubernetes, Helm, CI/CD (GitHub Actions or Jenkins), Prometheus/Grafana, Python/Bash scripting. Preferred: ArgoCD, service mesh (Istio), cost optimization experience. 5+ years required.",
+  "ground_truth_skills": ["Terraform", "AWS", "Kubernetes", "Helm", "GitHub Actions", "Jenkins", "Prometheus", "Grafana", "Python", "Bash", "ArgoCD", "Istio"],
+  "ground_truth_gaps": ["Istio"],
+  "ground_truth_fit_score": 88
+}

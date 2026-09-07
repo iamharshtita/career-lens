@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_11",
+  "resume_text": "Rachel Kim — Machine Learning Engineer. B.S. Mathematics, NYU, 2019. 4 years in ML research and applied ML. Published 3 papers on graph neural networks and anomaly detection. Expert in Python, JAX, and PyTorch. Experience with distributed training using PyTorch DDP and DeepSpeed. Familiar with experiment tracking (Weights & Biases). Built ML pipelines on Vertex AI (GCP). Limited production deployment experience — most work has been research-oriented with prototypes. No Kubernetes or MLOps tooling experience.",
+  "job_url": "https://example-jobs.com/jobs/pair_11",
+  "job_description": "ML Engineer at a tech company focused on recommendation systems. Required: Python, PyTorch, model training and evaluation, experiment tracking (MLflow or W&B), feature stores, ML pipeline orchestration (Kubeflow or Metaflow), production deployment (Kubernetes, Seldon or TorchServe). Preferred: Graph neural networks, distributed training (DDP or DeepSpeed). 3+ years.",
+  "ground_truth_skills": ["Python", "PyTorch", "Experiment tracking", "Feature stores", "Kubeflow", "Kubernetes", "Seldon", "Graph neural networks", "DeepSpeed"],
+  "ground_truth_gaps": ["Feature stores", "Kubeflow", "Kubernetes", "Seldon"],
+  "ground_truth_fit_score": 58
+}

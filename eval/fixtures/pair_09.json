@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_09",
+  "resume_text": "Lena Fischer — Software Engineer. B.S. Computer Science, University of Washington, 2021. 2 years at a startup in a generalist role. Wrote backend services in Python (Django) and frontend components in Vue.js. Used MySQL and basic AWS services (S3, EC2). Familiar with Git and basic Linux administration. No formal experience with testing frameworks — wrote occasional manual tests. No experience with containerization, CI/CD pipelines, or microservices architecture. Strong problem-solving skills and fast learner.",
+  "job_url": "https://example-jobs.com/jobs/pair_09",
+  "job_description": "Software Engineer at a mid-size tech company. Required: Python or Java, REST API development, SQL, unit testing (pytest or JUnit), Git, Docker, CI/CD (GitHub Actions or Jenkins). Preferred: Microservices, Kubernetes, AWS. 2+ years of professional software development.",
+  "ground_truth_skills": ["Python", "REST API development", "SQL", "pytest", "Git", "Docker", "CI/CD", "Microservices", "Kubernetes", "AWS"],
+  "ground_truth_gaps": ["pytest", "Docker", "CI/CD", "Microservices", "Kubernetes"],
+  "ground_truth_fit_score": 42
+}

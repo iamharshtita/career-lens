@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_12",
+  "resume_text": "Nathan Lee — Frontend Engineer. B.S. Web Development, Arizona State University, 2022. 1 year of professional experience as a junior developer. Primarily worked with HTML, CSS, and vanilla JavaScript. Built simple landing pages and marketing sites. Familiar with Bootstrap CSS framework. No React, TypeScript, or modern framework experience. Has completed online courses in React but never applied it professionally. No testing experience. Deployed projects on shared hosting.",
+  "job_url": "https://example-jobs.com/jobs/pair_12",
+  "job_description": "Frontend Engineer at a product company. Required: React, TypeScript, Next.js, CSS-in-JS or Tailwind, unit testing (Jest/Vitest), REST API integration, Git workflow. Preferred: GraphQL, accessibility (WCAG), performance optimization, Storybook. 2+ years of professional React experience.",
+  "ground_truth_skills": ["React", "TypeScript", "Next.js", "Tailwind CSS", "Jest", "REST API integration", "Git", "GraphQL", "WCAG", "Storybook"],
+  "ground_truth_gaps": ["React (professional)", "TypeScript", "Next.js", "Tailwind CSS", "Jest", "REST API integration", "GraphQL", "WCAG", "Storybook"],
+  "ground_truth_fit_score": 22
+}

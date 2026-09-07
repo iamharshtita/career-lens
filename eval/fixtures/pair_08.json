@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_08",
+  "resume_text": "Ethan Brooks — Data Engineer. M.S. Data Engineering, University of Michigan, 2020. 4 years building data pipelines and warehouses. Expert in Apache Spark, Airflow, and dbt. Designed ETL pipelines ingesting 10TB/day into Snowflake and BigQuery. Proficient in Python and SQL. Experienced with Kafka for real-time event streaming. Deployed infrastructure on AWS using Glue, S3, and Redshift. Familiar with Terraform for infrastructure-as-code. Strong understanding of data modeling and star schema design. Recently started learning Delta Lake and Databricks.",
+  "job_url": "https://example-jobs.com/jobs/pair_08",
+  "job_description": "Data Engineer at a financial services company. Required: Python, SQL, Apache Spark, Airflow, dbt, Kafka, AWS (Glue, S3, Redshift or similar), Snowflake or BigQuery. Preferred: Databricks, Delta Lake, Terraform. 3+ years in data engineering.",
+  "ground_truth_skills": ["Python", "SQL", "Apache Spark", "Airflow", "dbt", "Kafka", "AWS", "Snowflake", "BigQuery", "Databricks", "Delta Lake", "Terraform"],
+  "ground_truth_gaps": ["Databricks", "Delta Lake"],
+  "ground_truth_fit_score": 85
+}

@@ -1,0 +1,9 @@
+{
+  "pair_id": "pair_15",
+  "resume_text": "Amara Diallo — AI Engineer. B.S. Electrical Engineering, Howard University, 2021. 1.5 years of experience. Worked on computer vision projects using OpenCV and TensorFlow. Built a face detection pipeline for an internal security system. Familiar with Python and basic REST APIs. No experience with NLP, LLMs, or cloud deployment. Deployed models locally via Flask. No Docker or containerization experience. Currently completing online courses in AWS and cloud computing.",
+  "job_url": "https://example-jobs.com/jobs/pair_15",
+  "job_description": "AI Engineer at a conversational AI company. Required: Python, LLMs (OpenAI or Bedrock), LangChain, prompt engineering, FastAPI, Docker, AWS. Preferred: RAG pipelines, vector databases (Pinecone or Weaviate), fine-tuning, Kubernetes. 2+ years of applied AI experience.",
+  "ground_truth_skills": ["Python", "LLMs", "LangChain", "Prompt engineering", "FastAPI", "Docker", "AWS", "RAG pipelines", "Vector databases", "Fine-tuning", "Kubernetes"],
+  "ground_truth_gaps": ["LLMs", "LangChain", "Prompt engineering", "FastAPI", "Docker", "AWS", "RAG pipelines", "Vector databases", "Kubernetes"],
+  "ground_truth_fit_score": 25
+}
